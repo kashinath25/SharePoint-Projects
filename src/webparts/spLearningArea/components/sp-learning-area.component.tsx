@@ -8,7 +8,7 @@ interface IListItem {
   Title: string;
 }
 function SpLearningAreaComponent(description: any) {
-  return <div> ... </div>;
+  return <div> welcome to SP </div>;
 }
 
 export default SpLearningAreaComponent;
